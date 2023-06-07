@@ -1,0 +1,17 @@
+{
+  "name": "palindromo",
+  "version": "1.0.0",
+  "description": "final palindromo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "palindromo"
+  ],
+  "author": "Jim Diaz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
